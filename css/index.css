@@ -1,0 +1,20 @@
+/** @format */
+
+table,
+th,
+tr,
+td {
+  border: 0.5px solid #999;
+}
+.inline {
+  display: inline-flex !important;
+  width: 100%;
+  box-shadow: 0 2px 5px 0 rgb(164 173 186 / 25%);
+  border-radius: 8px;
+  margin: 1em 0;
+  padding: 1em;
+}
+
+.inline button {
+  margin-left: 1em;
+}
